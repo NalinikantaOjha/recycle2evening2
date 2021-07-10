@@ -1,0 +1,2 @@
+rootProject.name = "Recycle2evening2"
+include ':app'
